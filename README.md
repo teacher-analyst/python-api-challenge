@@ -12,7 +12,7 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 
 ### Deliverables
 1.Create a Python script to visualise the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library and the OpenWeatherMap API.
-2. use Jupyter notebooks, the geoViews Python library, and the Geoapify API and your weather data skills to plan future vacations.
+2.Use Jupyter notebooks, the geoViews Python library, and the Geoapify API and your weather data skills to plan future vacations.
 
 ### Screenshots
 
