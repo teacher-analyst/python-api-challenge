@@ -21,8 +21,8 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 <img width="726" alt="image" src="https://github.com/teacher-analyst/python-api-challenge/assets/130710065/fd8fc46b-b65c-4748-b92c-73ebb6f5545e">
 
 ### Technologies 
-API's: Geoapify and OpenWeatherMap
-citypy Python library
-Matplotlib
+- API's: Geoapify and OpenWeatherMap
+- citypy Python library
+- Matplotlib
 
 
