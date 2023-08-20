@@ -3,7 +3,7 @@ This project is part of Module 6 Challenge of Data Analytics Bootcamp.
 
 ## Project Description
 ### Problem
-ata's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?" 
+Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?" 
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that? 
 
@@ -21,5 +21,8 @@ Now, we know what you may be thinking: “That’s obvious. It gets hotter.” B
 <img width="726" alt="image" src="https://github.com/teacher-analyst/python-api-challenge/assets/130710065/fd8fc46b-b65c-4748-b92c-73ebb6f5545e">
 
 ### Technologies 
+API's: Geoapify and OpenWeatherMap
+citypy Python library
+Matplotlib
 
 
